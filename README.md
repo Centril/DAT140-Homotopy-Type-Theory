@@ -10,3 +10,6 @@
 
 ### Videos
 + https://www.youtube.com/watch?v=OupcXmLER7I
+
+### Agda
++ http://oxij.org/note/BrutalDepTypes
